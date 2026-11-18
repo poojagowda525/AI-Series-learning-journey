@@ -1,0 +1,10 @@
+Today’s topic was RAG. Here’s my understanding:
+learned about a RAG 
+basic and very importent concept , where it produces a answers or solutions from external sources through retrival 
+🔹 LLMs only know what they were trained on, so they can give outdated or wrong answers.
+🔹 RAG first retrieves relevant information from external data (documents, PDFs, databases), then passes it to the LLM to generate the answer.
+🔹 It’s like an open-book exam instead of answering from memory.
+
+context window
+chunking and embeddings, vector databases
+
