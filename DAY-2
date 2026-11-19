@@ -1,0 +1,26 @@
+Day 2 Summary: AI vs ML vs DL
+
+The big picture: AI is the biggest circle, ML sits inside it, and DL sits inside ML.
+
+AI (Artificial Intelligence): the ability of a computer or machine to think and show intelligent behaviour, like human reasoning.
+ML (Machine Learning): a subset of AI. It uses data and algorithms to learn patterns and make predictions.
+DL (Deep Learning): a subset of AI and ML. It uses artificial neural networks to learn from complex data.
+
+Types of AI : Rule-based systems → Statistical/predictive AI → Generative AI → AI Agents / Agentic AI → AGI (Artificial General Intelligence) → ASI (Super Intelligence)
+
+Example: Email spam filter (ML)
+
+The model checks things like:
+
+Is the sender verified?
+Does the domain look real?
+Are the links safe?
+
+Based on past data, it learns from these signals and sorts mail into Spam, Priority or Important.
+
+
+Yesterday: RAG. Tomorrow: more on how neural networks work and LLM's.
+
+
+
+#AI #MachineLearning #DeepLearning #GenerativeAI #LearningInPublic #Day2 #AILearningJourney.
